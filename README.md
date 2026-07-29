@@ -32,9 +32,3 @@ Python, SQLite
    ```bash
    python main.py
    ```
-
-## Future Improvements
-
-- Task due dates and priority levels
-- Assign tasks to other users
-- Task completion reports for admins
